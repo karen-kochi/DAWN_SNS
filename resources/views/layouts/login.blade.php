@@ -39,6 +39,7 @@
     </header>
     <div id="row">
         <div id="container">
+
             @yield('content')
         </div>
         <div id="side-bar">
